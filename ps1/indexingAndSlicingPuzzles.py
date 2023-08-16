@@ -1,8 +1,4 @@
 # 
-# ps1pr2.py - Problem Set 1, Problem 2
-# name: Youjung (Jenny) Jung
-# BU ID: U01171028
-#
 # Indexing and slicing puzzles
 #
 
